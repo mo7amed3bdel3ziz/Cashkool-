@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Kashcool</string>
+    <string name="Debit">Debit</string>
+    <string name="Credit">Credit</string>
+    <string name="netbalance">Net balance</string>
+    <string name="add_Customer">AddCustomer</string>
+    <string name="add_Transaction">Add Transaction</string>
+    <string name="Description">Description</string>
+    <string name="all_Customer">All Customer</string>
+    <string name="all_Transaction">All Transaction</string>
+    <string name="declined">All Transaction</string>
+    <string name="ints">0</string>
+    <string name="pay1">Your collect date is Today</string>
+    <string name="Collectdate">Collect date</string>
+    <string name="pay2">Your payment date is Today </string>
+    <string name="day3">You have 3 days to </string>
+    <string name="decline">decline </string>
+    <string name="Recordedon">Recorded on :</string>
+
+    <string name="title_activity_main2" translatable="false">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+
+    //Headings
+    <string name="heading_one" translatable="false">track your payments </string>
+    <string name="heading_two" translatable="false">schedule collect date</string>
+    <string name="heading_three" translatable="false">Report transactions</string>
+    <string name="heading_fourth" translatable="false">Pay Anywhere</string>
+
+    //Description
+    <string name="desc_one" translatable="false">you can easily keep track of your financial payment with unlimited cloud storage</string>
+    <string name="desc_two" translatable="false">Set a date for each user to collect their debit</string>
+    <string name="desc_three" translatable="false">Get a report that includes all your transactions between you and other users</string>
+    <string name="desc_fourth" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_activity_otp_verify" translatable="false">OtpVerifyActivity</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="transaction_date">Transaction Date</string>
+    <string name="collect_date">Collect Date</string>
+    <string name="name">name</string>
+    <string name="phone">Phone</string>
+    <string name="write_down_your_amount">write down your amount</string>
+    <string name="egp_300_000">EGP 300,000</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="your_name">your name</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">confirm Password</string>
+    <string name="confirm">Confirm</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="didn_t_recieve_code">Didn\'t recieve code?</string>
+    <string name="resend_it">resend it</string>
+    <string name="send_code">Send Code</string>
+    <string name="skip">Skip</string>
+    <string name="view_all">View All</string>
+    <string name="adding_customer">Adding Customer</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="already_have_an_account">Already Have an account?</string>
+    <string name="notifiactions">Notifiactions</string>
+    <string name="settings">settings</string>
+    <string name="me">Me</string>
+    <string name="log_out">Log out</string>
+    <string name="transaction">Transaction</string>
+    <string name="add_new_contact">Add New Contact</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_phone">Enter phone</string>
+    <string name="report">Report</string>
+    <string name="collect">Collect</string>
+    <string name="search">search</string>
+    <string name="add_debit_on_me">Add Debit on Me</string>
+    <string name="en">العربية</string>
+    <string name="ar">English</string>
+    <string name="_1_h_ago">1 h ago</string>
+    <string name="choose_client_to_add_debit">Choose client to add debit</string>
+    <string name="date_of_pay">Date of pay</string>
+
+</resources>

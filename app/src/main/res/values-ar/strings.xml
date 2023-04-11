@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kashcool</string>
+    <string name="Credit">فلوس ليا</string>
+    <string name="netbalance">الرصيد</string>
+    <string name="add_Customer">اضافه ديون جديده</string>
+    <string name="add_Transaction">ضافه دين على عميل</string>
+    <string name="Description">الوصف</string>
+    <string name="all_Customer">جميع العملاء</string>
+    <string name="Debit">فلوس عليا</string>
+    <string name="all_Transaction">جميع التعاملات</string>
+    <string name="declined">All Transaction</string>
+    <string name="ints">0</string>
+    <string name="pay1">اليوم ميعاد تحصيل </string>
+    <string name="Collectdate">تاريخ الدفغ</string>
+    <string name="pay2">اليوم ميعاد الدفع </string>
+    <string name="day3"> لديك ثلاثه ايام للرفض! </string>
+    <string name="decline"> أرفض  </string>
+    <string name="Recordedon">   سجل عليك : </string>
+    <string name="transaction_date">تاريخ التحويل</string>
+    <string name="add_transaction">تسجيل عملية</string>
+    <string name="collect_date">تاريخ التحصيل</string>
+    <string name="name">الاسم</string>
+    <string name="phone">رقم الهاتف</string>
+    <string name="write_down_your_amount">سجل المبلغ </string>
+    <string name="egp_300_000">ج.م 300,000</string>
+    <string name="customer_name">اسم العميل</string>
+    <string name="your_name">الاسم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="confirm_password">تأكيد كلمه المرور</string>
+    <string name="confirm">موافق</string>
+    <string name="new_password">كلمة مرور جديدة</string>
+    <string name="confirm_new_password">تأكيد كلمة المرور الجديدة</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="forget_password">نسيت كلمة المرور؟</string>
+    <string name="didn_t_recieve_code">لم تستلم كود؟</string>
+    <string name="resend_it">اعادة ارسال</string>
+    <string name="send_code">ارسل كود</string>
+    <string name="skip">تخطي</string>
+    <string name="view_all">عرض الكل</string>
+    <string name="adding_customer">اضافة عميل</string>
+    <string name="enter_otp">ادخل الكود </string>
+    <string name="enter_your_phone_number">ادخل رقم هاتفك</string>
+    <string name="already_have_an_account">Already Have an account?</string>
+    <string name="notifiactions">الاشعارات</string>
+    <string name="settings">الاعدادات</string>
+    <string name="me">انا</string>
+    <string name="log_out">تسجيل خروج</string>
+    <string name="transaction">تحويل</string>
+    <string name="add_new_contact">اضافة جهة اتصال جديدة</string>
+    <string name="enter_name">ادخل الاسم</string>
+    <string name="enter_phone">ادخل رقم الهاتف</string>
+    <string name="report">التقرير</string>
+    <string name="collect">تحصيل</string>
+    <string name="search">بحث</string>
+    <string name="en">English</string>
+    <string name="ar">العربية</string>
+    <string name="_1_h_ago">منذ ساعة</string>
+    <string name="add_debit_on_me">اضافة دين عليا</string>
+    <string name="date_of_pay">تاريخ الدفع</string>
+    <string name="choose_client_to_add_debit">اختار عميل لاضافه دين</string>
+
+
+</resources>

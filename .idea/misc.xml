@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/btn.xml" value="0.2203125" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/btn_sheet.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/circ2shap.xml" value="0.18307692307692308" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/circlshap.xml" value="0.2046875" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_baseline_add_home_24.xml" value="0.2046875" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_baseline_language_24.xml" value="0.2046875" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_baseline_menu_book_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_baseline_notifications_none_24.xml" value="0.2046875" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_baseline_person_add_alt_1_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_baseline_picture_as_pdf_24.xml" value="0.1" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2046875" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_baseline_supervised_user_circle_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_baseline_visibility_off_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_books.xml" value="0.2203125" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_dowdow.xml" value="0.3828125" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_image1.xml" value="0.2203125" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_kashcoollogo.xml" value="0.2203125" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_launcher_background.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_logo1.xml" value="0.1" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_logout.xml" value="0.1" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_undraw_documents_re_isxv_1.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_undraw_mobile_payments_re_7udl_1.xml" value="0.2203125" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_undraw_online_calendar_re_wk3t_1.xml" value="0.2203125" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_uparrowss.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_upup.xml" value="0.3828125" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/ic_vicuser.xml" value="0.1796875" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/notifayrow.xml" value="0.2203125" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/number.xml" value="0.2203125" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/search.xml" value="0.2046875" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/shapbtnnotifay1.xml" value="0.2203125" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/shapbtnnotyf2.xml" value="0.2203125" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/drawable/testbtn.xml" value="0.2203125" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/accept.xml" value="0.19" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/activity_add.xml" value="0.22" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/activity_add_custmwe6.xml" value="0.18" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/activity_add_new_contact.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/activity_add_transaction_tone.xml" value="0.22" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/activity_all_transaction_for_one_cla.xml" value="0.22" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/activity_craete_acc.xml" value="0.25" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/activity_forget_pass.xml" value="0.2" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/activity_main2.xml" value="0.22" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/activity_main3.xml" value="0.18" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/activity_main4.xml" value="0.25" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/activity_main5.xml" value="0.22" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/activity_otp_verify.xml" value="0.25" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/activity_otpforget_pass.xml" value="0.25" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/activity_send_otbforget_pass.xml" value="0.2" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/activity_send_otpactivity.xml" value="0.22" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/activity_splash.xml" value="0.15052083333333333" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/collect1.xml" value="0.2" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/collect2.xml" value="0.22" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/contactrow.xml" value="0.17374517374517376" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/content_main.xml" value="0.22" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/customers.xml" value="0.25" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/decline.xml" value="0.18" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/fragment_first.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/fragment_notifay.xml" value="0.22" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/fragment_second.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/fragment_second2.xml" value="0.165625" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/fragment_setting.xml" value="0.25" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/layout_sheet.xml" value="0.2" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/layuot_btn_sheet_d.xml" value="0.22" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/notifayrow.xml" value="0.25" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/sheet_add_contact.xml" value="0.18" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/slider_layout.xml" value="0.22" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/test233.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/test23w.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/yousif/StudioProjects/n5arrb/app/src/main/res/layout/testhomescreen.xml" value="0.22" />
+        <entry key="..\:/tpi/n5arrb/app/src/main/res/layout/activity_login.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
